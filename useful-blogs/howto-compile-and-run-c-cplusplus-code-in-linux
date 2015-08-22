@@ -1,0 +1,2 @@
+gcc program-source-code.c -o executable-file-name
+./executable-file-name
